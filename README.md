@@ -1,2 +1,2 @@
-# PD_Analysis
-Exploratory data analysis in pyhton
+# Pandas Analysis
+Exploratory data analysis in Python using Pandas
